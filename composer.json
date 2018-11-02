@@ -1,0 +1,14 @@
+{
+    "name": "otouzi/repayment",
+    "description": "otouzi repayment method",
+    "type": "MIT",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "ChinaXion\\repayment\\": "src/"
+        }
+    }
+}
