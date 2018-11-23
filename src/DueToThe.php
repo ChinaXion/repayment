@@ -1,7 +1,7 @@
 <?php
 
 /** 按月付息，到期换本 **/
-namespace repayment\src;
+namespace ChinaXion\repayment;
 
 class DueToThe
 {

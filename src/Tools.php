@@ -1,6 +1,6 @@
 <?php
 
-namespace repayment\src;
+namespace ChinaXion\repayment;
 
 class Tools
 {

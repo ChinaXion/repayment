@@ -1,7 +1,7 @@
 <?php
 
 /** 等本等息 **/
-namespace repayment\src;
+namespace ChinaXion\repayment;
 
 class Equally
 {

@@ -1,7 +1,7 @@
 <?php
 
 /**  按月等额本息  **/
-namespace repayment\src;
+namespace ChinaXion\repayment;
 
 class Average {
 

@@ -1,7 +1,7 @@
 <?php
 
 /** 到期还本付息 **/
-namespace repayment\src;
+namespace ChinaXion\repayment;
 
 class Disposable
 {
